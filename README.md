@@ -1,2 +1,2 @@
-# etoken-public
+# etoken-docs
 eToken Protocol Documentation
